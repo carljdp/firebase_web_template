@@ -1,0 +1,21 @@
+{
+  "name": "firebase_web_template",
+  "version": "0.0.1",
+  "description": "Firebase Web Template",
+  "keywords": [ "firebase", "template" ],
+  
+  "type": "module",
+  "main": "index.js",
+  
+  "scripts": {
+    "run": "echo \"`run` not yet implemented\" && exit 1",
+    "test": "echo \"`test` not yet implemented\" && exit 1"
+  },
+  
+  "homepage": "https://github.com/carljdp/firebase_web_template#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/carljdp/firebase_web_template.git" },
+  "bugs": { "url": "https://github.com/carljdp/firebase_web_template/issues" },
+
+  "author": "Carl J du Preez (carljdp@gmail.com)",
+  "license": "MIT"
+}
